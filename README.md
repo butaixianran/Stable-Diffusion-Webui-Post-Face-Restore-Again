@@ -9,6 +9,12 @@ Especially when image is full shot or wider shot.
 
 **With this script, which runs face restore again, can fix most face problem you have. You won't feel any unnatural thing on character's face.**  
 
+**Without it:**  
+![](img/without.jpg)  
+
+**With it:**  
+![](img/with.jpg)  
+
 
 # How to use
 Download the "postprocessing_facerestore.py" python script, put it into `Your Stable-Diffusion-Webui/scripts` folder, Reload UI, done.

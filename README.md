@@ -22,4 +22,7 @@ Especially when image is full shot or wider shot.
 # How to use
 Download the "postprocessing_facerestore.py" python script, put it into `Your Stable-Diffusion-Webui/scripts` folder, Reload UI, done.
 
+There will be a checkbox at the bottom of extra tab called "Post Face Restore". Uncheck to not run.
+
+
 

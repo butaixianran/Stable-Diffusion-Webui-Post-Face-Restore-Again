@@ -1,3 +1,6 @@
+### Language
+[中文](README.cn.md)
+
 # Stable-Diffusion-Webui-Post-Face-Restore-Again
 This is a script for Stable-Diffusion-Webui. In Extra tab, it run face restore again, which offers you much better result on face restore.
 

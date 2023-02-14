@@ -18,4 +18,6 @@
 # 使用方法
 下载并解压本项目，把"postprocessing_facerestore.py"这个文件，放到`你的Stable-Diffusion-Webui/scripts` 目录, 在设置页面，右上角，点击刷新UI即可。
 
+之后，在Extra页面最下方，会多出来一个勾选框叫"Post Face Restore"，去掉勾选，就不会运行了。
+
 
